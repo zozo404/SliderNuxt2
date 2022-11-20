@@ -1,3 +1,9 @@
+# SliderNuxt2
+Welcome to my Personal component 👋
+
+## What is it used for ?
+It is used to display several images in the form of a carousel, while being responsive.
+
 ## Installation
 
 ```bash
