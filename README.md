@@ -1,15 +1,10 @@
-# otantik-tacos
-Welcome to my new project 👋
-
-Access: [otantik-tacos](https://otantik-tacos.netlify.app/)
-
 ## Installation
 
 ```bash
 # clone the repo
-$ git clone https://github.com/zozo404/otantik-tacos.git
+$ git clone https://github.com/zozo404/SliderNuxt2.git
 
-$ cd otantik-tacos
+$ cd SliderNuxt2
 
 # install dependencies
 $ yarn install
@@ -22,11 +17,8 @@ $ yarn dev
 For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
 
 
-## Technologies used
-
-**Client:** Nuxtjs, TailwindCSS
-
-**Server:** Node, Sanity.io
+## To change the colors of arrows or pagination
+Go to node_modules --> swiper --> css --> swiper.css --> (CTRL+F = :root)
 
 
 ## Authors
